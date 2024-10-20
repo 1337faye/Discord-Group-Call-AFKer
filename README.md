@@ -1,9 +1,9 @@
 ```markdown
-# Discord Group Call Manager Bot
+#Discord Group Call Manager Bot
 
 This bot helps manage group voice calls on Discord. It allows users to join and leave calls, and provides helpful commands for easy interaction.
 
-## Requirements
+##Requirements
 
 - Python version 3.8 or higher
 - [discord.py-self](https://pypi.org/project/discord.py-self/) - A library to interact with Discord's API.
