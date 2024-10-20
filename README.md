@@ -11,7 +11,6 @@ This bot helps manage group voice calls on Discord. It allows users to join and 
 
 You can install the required packages using pip:
 
-```bash
 pip install discord.py-self pynacl
 ```
 
