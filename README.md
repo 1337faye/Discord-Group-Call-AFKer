@@ -53,4 +53,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 Thanks to the developers of [discord.py-self](https://pypi.org/project/discord.py-self/) and [PyNaCl](https://pypi.org/project/PyNaCl/) for providing the necessary libraries to make this bot functional.
-```
+
