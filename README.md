@@ -3,6 +3,8 @@
 
 This bot helps manage group voice calls on Discord. It allows users to join and leave calls, and provides helpful commands for easy interaction.
 
+NOTE: User automation is not allowed on Discord, you almost definitely will not get banned but I would personally make an alt account for this anyways. 
+If you do somehow get banned, you have been warned. Do not come crying to me.
 ## Requirements
 
 - Python version 3.8 or higher
