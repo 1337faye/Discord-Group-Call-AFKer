@@ -31,7 +31,7 @@ pip install discord.py-self pynacl
    GROUP_DM_ID = 000000000000000000  # Replace with your Group DM's ID
    ```
 
-   Replace `'insert your very cool token here'` with your actual Discord bot token and `000000000000000000` with your Group DM's ID.
+   Replace `'insert your very cool token here'` with your actual Discord user token (this is designed for user bots because bots can't join group chats) and `000000000000000000` with your Group DM's ID.
 
 3. **Run the Bot:**
    After making the necessary modifications, run the bot with the following command:
