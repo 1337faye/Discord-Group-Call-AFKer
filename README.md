@@ -1,4 +1,4 @@
-```markdown
+
 # Discord Group Call Manager Bot
 
 This bot helps manage group voice calls on Discord. It allows users to join and leave calls, and provides helpful commands for easy interaction.
@@ -11,6 +11,7 @@ This bot helps manage group voice calls on Discord. It allows users to join and 
 
 You can install the required packages using pip:
 
+```bash
 pip install discord.py-self pynacl
 ```
 
@@ -30,7 +31,7 @@ pip install discord.py-self pynacl
    GROUP_DM_ID = 000000000000000000  # Replace with your Group DM's ID
    ```
 
-   Replace `'YOUR_TOKEN_HERE'` with your actual Discord bot token and `123456789012345678` with your Group DM's ID.
+   Replace `'insert your very cool token here'` with your actual Discord bot token and `000000000000000000` with your Group DM's ID.
 
 3. **Run the Bot:**
    After making the necessary modifications, run the bot with the following command:
@@ -53,4 +54,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 Thanks to the developers of [discord.py-self](https://pypi.org/project/discord.py-self/) and [PyNaCl](https://pypi.org/project/PyNaCl/) for providing the necessary libraries to make this bot functional.
-
