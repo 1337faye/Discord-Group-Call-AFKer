@@ -48,6 +48,7 @@ pip install discord.py-self pynacl
 - `!leave` : Leave the group call.
 - `!help` : Show this help message.
 - `!github` : Get a link to the bot's GitHub repository.
+- `!uptime` : Tells you how long this bot has been running.
 
 ## License
 
