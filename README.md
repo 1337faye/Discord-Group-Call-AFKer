@@ -26,7 +26,7 @@ pip install discord.py-self pynacl
    ```
 
 2. **Modify the Bot Token and Group Chat ID:**
-   Open the main bot file (usually `bot.py` or similar) and locate the following lines:
+   Open bot.py and locate the following lines:
 
    ```python
    TOKEN = 'insert your very cool token here'  # Replace with your actual Discord bot token
